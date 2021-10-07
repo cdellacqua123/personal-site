@@ -12,7 +12,9 @@
 	background-position: center;
     background-size: cover;
 }
-
+.projects-img {
+	max-width: 300px;
+}
 .my-name {
 	font-size: 2em;
 	font-weight: 900;
