@@ -13,6 +13,11 @@
     background-size: cover;
 }
 
+.links-footer {
+	display: flex;
+    justify-content: space-between;
+}
+
 .resume-button {
     padding-left: 50px;
     padding-right: 50px;
@@ -3520,6 +3525,7 @@ input, select, textarea {
 		margin: 0 0 1em 0;
 		overflow: hidden;
 		position: relative;
+		cursor: default;
 		/* width: 4em; */
 	}
 
